@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "composite": true,
+    "module": "ES2020",
+    "target": "ES2022",    
+
+    "strict": true
+  },
+  "files": ["jsModule.ts", "services.ts"]
+}
